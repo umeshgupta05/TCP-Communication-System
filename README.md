@@ -87,5 +87,3 @@ Connected to server.
 Server: Welcome to the TCP Communication System!
 Client: Hello Server!
 
-## 🧩 Project Structure
-
